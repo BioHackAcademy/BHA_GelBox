@@ -12,7 +12,7 @@ No|Amount|Description|Supplier NL|Cost
 4|1|Banana cable (red)|[AlleKabels](http://www.allekabels.nl/banaan-stekker/39/1064782/meetsnoer.html)|3.85
 5|1|3mm Acrylic sheet|[Plexiglas.nl](http://www.plexiglas.nl/)|
 6|1|Acryl glue|DIY shop|
-7|1|Platinum Wire|[Sigma Aldrich](http://www.sigmaaldrich.com/catalog/product/sigma/ep1330?lang=en&region=NL)|90.10
+7|1|Platinum Wire|[Sigma Aldrich](http://www.sigmaaldrich.com/catalog/product/sigma/ep1330?lang=en&region=NL)|82.60
 
 **Alternatives**
 
